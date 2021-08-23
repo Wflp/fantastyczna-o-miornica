@@ -1,0 +1,7 @@
+echo "# fantastyczna-o-miornica" >> README.md 
+git init 
+git add README.md 
+git commit -m "pierwszy commit" 
+git branch -M main 
+git remote add origin https://github.com/Wflp/fantastyczna- o-miornica.git
+ git push -u origin main
